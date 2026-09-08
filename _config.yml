@@ -5,5 +5,17 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
-title: Benjamin Lords's Portfolio
+title: Benjamin's Portfolio
 name: Benjamin
+
+author:
+  name: "Benjamin"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "CS graduate focused on cybersecurity and IT."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/your-profile-url"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benjamin6700"
