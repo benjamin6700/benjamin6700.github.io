@@ -5,17 +5,20 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 title: Benjamin's Portfolio
 name: Benjamin
+paginate: 5
+paginate_path: /page:num/
 
 author:
   name: "Benjamin"
-  avatar: "assets/images/avatar.jpeg"
+  avatar: "/assets/images/avatar.jpg"
   bio: "CS graduate focused on cybersecurity and IT."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/benjamin-lord-0495962b2/"
+      url: "https://linkedin.com/in/your-profile-url"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benjamin6700"
