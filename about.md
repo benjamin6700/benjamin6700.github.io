@@ -9,7 +9,7 @@ Write your bio here — a few paragraphs about yourself, what draws you to cyber
 
 [Download My IT Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large}
 
-[Download My CS Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large}
+[Download My CS Resume (PDF)](assets/files/Benjamin Lord's CS Resume.pdf){: .btn .btn--primary .btn--large}
 
 ## Summary
 Your resume summary paragraph.
