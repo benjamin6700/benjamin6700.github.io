@@ -13,7 +13,7 @@ paginate_path: /page:num/
 
 author:
   name: "Benjamin"
-  avatar: "assets/images/avatar.jpg"
+  avatar: "assets/images/avatar.jpeg"
   bio: "CS graduate focused on cybersecurity and IT."
   links:
     - label: "LinkedIn"
