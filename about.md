@@ -5,9 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-[Download My Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large}
-
 Write your bio here — a few paragraphs about yourself, what draws you to cybersecurity/IT, and anything personal you want to include.
+
+[Download My Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large}
 
 ## Summary
 Your resume summary paragraph.
