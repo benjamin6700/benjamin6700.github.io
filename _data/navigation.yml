@@ -4,7 +4,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Blog"
-    url: /blog/career/
+    url: /blog/
     children:
       - title: "Career & IT"
         url: /blog/career/
