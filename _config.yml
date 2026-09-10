@@ -12,7 +12,7 @@ paginate: 5
 paginate_path: /page:num/
 
 author:
-  name: "Benjamin"
+  name: "Benjamin Lord"
   avatar: "assets/images/avatar.jpeg"
   bio: "CS graduate focused on cybersecurity and IT."
   links:
