@@ -7,9 +7,7 @@ author_profile: true
 
 Write your bio here — a few paragraphs about yourself, what draws you to cybersecurity/IT, and anything personal you want to include.
 
-[Download My IT Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large}
-
-[Download My CS Resume (PDF)](assets/files/Benjamin Lord's CS Resume.pdf){: .btn .btn--info .btn--large}
+[Download My IT Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large} [Download My CS Resume (PDF)](assets/files/Benjamin Lord's CS Resume.pdf){: .btn .btn--info .btn--large}
 
 ## Summary
 Your resume summary paragraph.
