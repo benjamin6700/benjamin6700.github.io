@@ -20,7 +20,10 @@ Your resume summary paragraph.
 **Project Name** — short description with your XYZ-format bullets.
 
 ## Education
-**Western New England University** — B.S. Computer Science, May 2026
+**Western New England University, Springfield MA** *May 2026*
+B.S. Computer Science
+President’s List in the Spring 2023 and Spring 2024
+Dean’s List in the Fall 2024, Spring 2025, Fall 2025 and Spring 2026
 
 ## Certifications
 - CompTIA Network+ (*In Progress - est. completion September 2026*)
