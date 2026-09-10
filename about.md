@@ -17,7 +17,31 @@ Your resume summary paragraph.
 - Skill two
 
 ## Projects
-**Project Name** — short description with your XYZ-format bullets.
+**Bear Necessities Market Food Pantry** *(Java, Git, SDLC, CIDI)*  
+- Streamlined operations for a campus food pantry serving about 50 customers per month,
+by building and maintaining a multi-module database system for guest records, inventory,
+and performance reporting, as part of a 5-person Agile team.
+- Automated dependency management across all 5 subprojects, by implementing Renovate
+Runner end-to-end as the sole owner of the integration.
+- Maintained understanding of project requirements throughout the 15 week sprint cycle,
+by holding consistent, ongoing communication with the product owner.
+
+**Campus Security Safety App** *(HCI Design, HTML prototype)*  
+- Enabled faster, more organized handling of campus safety requests by leading the design
+of a ticketing app for a 4-person team, where students submit requests and officers
+receive and respond to them.
+- Conducted stakeholder interviews with campus police to identify pain points and define
+feature requirements, grounding the design in real user needs
+- Spearheaded documentation throughout the project, maintaining clear records of design
+decisions and development progress
+
+**Baseball League Database** *(MySQL)*
+- Designed a relational database schema for a simulated baseball league, modeling entities
+across 6+ tables including teams, rosters, umpires, schedules, locations, and game results
+- Populated the database with realistic data and wrote SQL queries to demonstrate
+functional relationships and data integrity across all tables
+- Presented a live demo to the class showcasing the working system, communicating
+technical design decisions to a non-technical audience
 
 ## Education
 **Western New England University, Springfield MA** *May 2026*  
