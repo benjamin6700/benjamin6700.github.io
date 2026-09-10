@@ -5,7 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-Write your bio here — a few paragraphs about yourself, what draws you to cybersecurity/IT, and anything personal you want to include.
+Benjamin Lord is an enthusiastic computer science graduate excited to learn, apply his skills and grow within the field of IT and cybersecurity. After enrolling in a number of engaging cybersecurity and networking classes led by influential professionals, Benjamin knew that IT was the field he was looking for, allowing him to express his creativity and desire to be challenged. Graduating with his Bachelor of Science, his desire to learn was stronger than ever. He immediately enrolled in CompTIA's Network+ certificate and began working on personal projects to continue to grow in the field. He has also spent time in hands-on trade work, which has given him an appreciation for the physical infrastructure side of IT. 
+
+Keeping up to date with current events in cybersecurity, Benjamin has many of his own thoughts on developing stories and breaking news from the field, and started a blog as a place to share it. When he is not deep in a terminal or browsing cybersecurity headlines, you can usually find him spending his time playing new fun board games with friends, or building his newest Magic: the Gathering deck. Passionate about his nerd hobbies as well, he likes to share his personal interests with other likeminded individuals. Striving for a position with an IT team that shares the same values and work ethic as him, Benjamin continues to test himself in an ever expanding field that he has grown to love.
 
 [IT Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large} [CS Resume (PDF)](assets/files/Benjamin Lord's CS Resume.pdf){: .btn .btn--info .btn--large}
 
