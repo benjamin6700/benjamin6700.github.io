@@ -10,10 +10,14 @@ Write your bio here — a few paragraphs about yourself, what draws you to cyber
 [IT Resume (PDF)](assets/files/Benjamin Lord's IT Resume.pdf){: .btn .btn--primary .btn--large} [CS Resume (PDF)](assets/files/Benjamin Lord's CS Resume.pdf){: .btn .btn--info .btn--large}
 
 ## Summary
-Your resume summary paragraph.
+Computer Science graduate from Western New England University with coursework in
+network security, industrial control systems, and database management. Proficient in Python,
+Java, and C++, with hands-on exposure to industrial network security practices. Pursuing
+CompTIA Network+ certification. Seeking an entry-level IT or network engineering role
+where I can apply technical knowledge and grow in the field.
 
 ## Technical Skills
-- **Languages**: Python, Java, C++
+- **Languages**: Python, Java, C++, HTML
 - **Databases**: MySQL
 - **Tools & Platforms**: GitHub, GitLab, VScode, OPNSense, WireShark
 - **Concepts & Frameworks**: Agile/SCRUM, OpenMP, MPI, Vibe Coding, Bash, Shell Scripting, TCP/IP, Network Security, Network Troubleshooting, Firewalls, Packet Analysis
