@@ -26,5 +26,12 @@ Your resume summary paragraph.
 - CompTIA Network+ (in progress)
 
 ## Experience
-**Job Title, Company** — dates
-- Bullet
+**Carpenter, CareFree Small Buildings** *July 2026 - Present*
+- Lead construction projects, supporting framing, finish work, and general site tasks from
+blueprint to completion
+- Collaborate with a small crew to coordinate task sequencing and meet project deadlines
+
+**Seasonal Farm Hand, Tree House Brewery** *May 2024 - 2025*
+- Engaged with production managers to discuss industrial network security practices,
+gaining real-world exposure to securing industrial systems
+- Managed care and upkeep of produce assets across a large-scale farm operation
