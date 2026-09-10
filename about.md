@@ -23,7 +23,7 @@ Your resume summary paragraph.
 **Western New England University** — B.S. Computer Science, May 2026
 
 ## Certifications
-- CompTIA Network+ (in progress)
+- CompTIA Network+ (*In Progress - est. completion September 2026*)
 
 ## Experience
 **Carpenter, CareFree Small Buildings** *July 2026 - Present*
