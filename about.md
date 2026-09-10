@@ -13,8 +13,10 @@ Write your bio here — a few paragraphs about yourself, what draws you to cyber
 Your resume summary paragraph.
 
 ## Technical Skills
-- Skill one
-- Skill two
+- **Languages**: Python, Java, C++
+- **Databases**: MySQL
+- **Tools & Platforms**: GitHub, GitLab, VScode, OPNSense, WireShark
+- **Concepts & Frameworks**: Agile/SCRUM, OpenMP, MPI, Vibe Coding, Bash, Shell Scripting, TCP/IP, Network Security, Network Troubleshooting, Firewalls, Packet Analysis
 
 ## Projects
 **[Bear Necessities Market Food Pantry](bear-necessities.md)** *(Java, Git, SDLC, CIDI)*  
