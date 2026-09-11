@@ -6,8 +6,8 @@ author_profile: true
 projects:
   - image_path: assets/images/BNM-cover-square.jpg
     alt: "Bear Necessities Market Food Pantry"
-    title: "Bear Necessities Market Food Pantry"
-    excerpt: "Java application built with a 5-person Agile team to manage food pantry operations, using Renovate Runner for dependency management."
+    title: "Bear Necessities Market Inventory and Guest Information System - Infrastructure Team"
+    excerpt: "Researched and implemented dependency management tool to detect and report outdated dependencies throughout 22 sub-projects."
     url: "/portfolio/bear-necessities/"
     btn_label: "Read More"
     btn_class: "btn--primary"
