@@ -6,7 +6,7 @@ author_profile: true
 projects:
   - image_path: assets/images/BNM-cover-square.jpg
     alt: "Bear Necessities Market Food Pantry"
-    title: "BNM Inventory and Guest Information System - Infrastructure Team"
+    title: "BNM Inventory and Guest Info System"
     excerpt: "Researched and implemented dependency management tool to detect and report outdated dependencies throughout 22 sub-projects."
     url: "/portfolio/bear-necessities/"
     btn_label: "Read More"
