@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 projects:
-  - image_path: assets/images/BNM-cover.png
+  - image_path: assets/images/BNM-cover-square.jpg
     alt: "Bear Necessities Market Food Pantry"
     title: "Bear Necessities Market Food Pantry"
     excerpt: "Java application built with a 5-person Agile team to manage food pantry operations, using Renovate Runner for dependency management."
