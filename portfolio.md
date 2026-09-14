@@ -18,7 +18,7 @@ projects:
     url: "/portfolio/campus-security/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/placeholderThree.jpg
+  - image_path: assets/images/My-SQL-logo.jpg
     alt: "Baseball League Database"
     title: "Baseball League Database"
     excerpt: "Solo-built MySQL database project modeling a baseball league's structure and statistics."
