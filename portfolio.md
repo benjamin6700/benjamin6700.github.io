@@ -11,10 +11,10 @@ projects:
     url: "/portfolio/bear-necessities/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/placeholderTwo.jpg
-    alt: "Campus Security Ticket System"
-    title: "Campus Security Ticket System"
-    excerpt: "Led a team through the HCI design process to build a ticketing system, including stakeholder interviews with campus police."
+  - image_path: assets/images/Campus_Project.jpg
+    alt: "Campus Safety and Info App"
+    title: "Campus Safety and Info App"
+    excerpt: "Led a team through the HCI design process to build a Campus Safety App, including stakeholder interviews with users with varying needs."
     url: "/portfolio/campus-security/"
     btn_label: "Read More"
     btn_class: "btn--primary"
