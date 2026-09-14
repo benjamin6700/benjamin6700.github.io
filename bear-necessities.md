@@ -4,6 +4,8 @@ title: "BNM Inventory and Guest Information System"
 permalink: /portfolio/bear-necessities/
 ---
 
+![BNM Repo](assets/images/BNM-cover.png){: .align-center width="600px"}
+
 Bear Necessities Market Inventory and Guest Information System is a legacy Java application inherited each year by the senior Computer Science class of Western New England University. The application was designed to help the campus food pantry manage customer visit records and track inventory. The class conducted an interview with the product owner to determine changes and fixes desired within the application. With the initial interview conducted, the class broke into several teams to work on various parts of the project. The team of 5 I was assigned to decided to work within the project infrastructure, in particular, a solution to maintaining the out of date dependencies. During sprint 1, our team's main objective was to find a tool that could scan the dependencies within each product and compare the current version with the newest version. After a few days of research, we found that the tool Renovate Runner would perform our desired tasks perfectly.
 
 ## My Role
