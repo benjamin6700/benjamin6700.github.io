@@ -25,6 +25,13 @@ projects:
     url: "/portfolio/baseball-db/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: assets/images/My-SQL-logo.jpg
+    alt: "Portfolio Website"
+    title: "Portfolio Website"
+    excerpt: "Test portfolio site description"
+    url: "/portfolio/website-portfolio/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="projects" %}
