@@ -3,7 +3,8 @@ layout: single
 title: "Portfolio Website"
 permalink: /portfolio/website-project/
 ---
-
+[← Back to Portfolio](/portfolio/){: .btn .btn--info}
+![BNM Repo](assets/images/website-screenshot.jpg){: .align-center width="600px"}
 This website itself is a project, being a GitHub Pages site built on the Minimal Mistakes Jekyll theme to house my resume, portfolio, and blog. Going in, I didn't have much hands-on HTML experience, so this became as much a learning project as a finished product. Some learning takeaways were figuring out how a static site generator actually works, how Jekyll's templating and front matter fit together, and how to debug real configuration issues when something broke.
 
 ## Working with AI as a Learning Tool
