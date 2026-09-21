@@ -4,6 +4,8 @@ title: "Baseball League Database"
 permalink: /portfolio/baseball-db/
 ---
 
+[← Back to Portfolio](/portfolio/){: .btn .btn--info}
+
 My Baseball League Database is a solo academic project built to design and implement a relational database in MySQL for managing a baseball league. The database tracks player and team statistics, standings, and game scheduling, giving a structured, queryable system for information that would otherwise be scattered across spreadsheets or manual records.
 
 ## My Role
