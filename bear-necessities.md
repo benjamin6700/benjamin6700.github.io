@@ -3,6 +3,7 @@ layout: single
 title: "BNM Inventory and Guest Information System"
 permalink: /portfolio/bear-necessities/
 ---
+[← Back to Portfolio](/portfolio/){: .btn .btn--info}
 
 ![BNM Repo](assets/images/BNM-cover.png){: .align-center width="600px"}
 
