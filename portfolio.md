@@ -28,7 +28,7 @@ projects:
   - image_path: assets/images/website-screenshot.jpg
     alt: "Portfolio Website"
     title: "Portfolio Website"
-    excerpt: "Test portfolio site description"
+    excerpt: "Online website to host portfolio and blog, documenting journey within the IT and cybersecurity field."
     url: "/portfolio/website-portfolio/"
     btn_label: "Read More"
     btn_class: "btn--primary"
