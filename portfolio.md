@@ -29,7 +29,7 @@ projects:
     alt: "Portfolio Website"
     title: "Portfolio Website"
     excerpt: "Online website to host portfolio and blog, documenting journey within the IT and cybersecurity field."
-    url: "/portfolio/website-portfolio/"
+    url: "/portfolio/website-project/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
