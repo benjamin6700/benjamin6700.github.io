@@ -51,6 +51,15 @@ functional relationships and data integrity across all tables
 - Presented a live demo to the class showcasing the working system, communicating
 technical design decisions to a non-technical audience
 
+**[Portfolio Website](website-project.md)** *(HTML, VibeCoding)*  
+- Built and deployed a professional portfolio site on GitHub Pages, structuring a multi-page
+  site (resume, portfolio, and categorized blog) with custom navigation, YAML configuration,
+  and Markdown/HTML content.
+- Diagnosed and resolved a number of build conflicts, including Markdown rendering and
+  GitHub Pages' pagination requirements.
+- Used AI-assisted development as a learning tool to build proficiency in HTML and YAML
+  configuration.
+
 ## Education
 **Western New England University, Springfield MA** *May 2026*  
 B.S. Computer Science  
