@@ -8,8 +8,6 @@ permalink: /portfolio/campus-security/
 ![Campus Safety Home Page](assets/images/Campus_Safety_Home.png){: .align-center width="600px"}
 [← Back to Portfolio](prototypes/campus-safety/index.html){: .btn .btn--info}
 
-TEST CHANGE TO MARKDOWN
-
 The Campus Security and Information App is a project built around a full Human-Computer Interaction (HCI) design process. The project's purpose was aimed at giving students an easier way to report security incidents, concerns and request safety escorts from campus police. The app would also present campus information to students produced by campus safety officers. This information includes parking statuses, building closures and more. Additionally, from the campus safety officer user perspective, the requests made by students would be added into a ticketing system that would then be organized by urgency and assigned to campus safety officers. As team lead of a 4 person group, I guided the project from initial research through to a working HTML prototype, working closely with campus police as the primary stakeholders throughout.
 
 ## My Role
