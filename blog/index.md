@@ -4,7 +4,7 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
-##Career & IT Blog
+## Career & IT Blog
 
 {% for post in site.categories.career limit:1 %}
   {% include archive-single.html %}
@@ -12,7 +12,7 @@ author_profile: true
 
 [Career & IT](/blog/career/){: .btn .btn--primary .btn--large}
 
-##Other Interests
+## Other Interests
 
 {% for post in site.categories.personal limit:1 %}
   {% include archive-single.html %}
