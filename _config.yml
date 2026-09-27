@@ -16,6 +16,9 @@ author:
   avatar: "assets/images/avatar.jpeg"
   bio: "CS graduate focused on cybersecurity and IT."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:benjaminlord60@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-lord-0495962b2/"
