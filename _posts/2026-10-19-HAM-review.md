@@ -2,7 +2,7 @@
 layout: single
 title: "Board Game Review: Horrified: American Monsters"
 date: 2026-10-19
-categories: [other-interests]
+categories: [personal]
 excerpt: A review on Horrified: American Monsters
 ---
 ![Defcon-pic2](/assets/images/defcon-pic2.jpeg){: .align-center width="600px"}
