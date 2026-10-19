@@ -5,7 +5,7 @@ date: 2026-10-19
 categories: [personal]
 excerpt: "A spooky-season review of Horrified: American Monsters, scored on concept, clarity, design, and game-night-ability."
 ---
-![HAMCover](assets/images/HAM-Cover.jpg){: .align-center width="600px"}
+![HAMCover](/assets/images/HAM-Cover.jpeg){: .align-center width="600px"}
 
 October is finally upon us. This is one of my favorite times of year and a time when many gather to celebrate all it brings. As I’m writing this, I sit dead in the middle of fall, where the leaves change and the air chills. I, for one, am certainly settling into this haunting season. I’m enjoying my favorite October rituals, including watching my fair share of scary movies, my annual playthrough of Silent Hill 2, and my favorite, playing all the spooky board games I can get my hands on. So I figured there is no better way to kick off the season than with a review of a game I thoroughly enjoyed this season: Horrified: American Monsters.
 
