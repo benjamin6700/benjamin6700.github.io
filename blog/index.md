@@ -14,8 +14,6 @@ author_profile: true
 
 ## Other Interests
 
-**Posts coming soon!**
-
 {% for post in site.categories.personal limit:1 %}
   {% include archive-single.html %}
 {% endfor %}
