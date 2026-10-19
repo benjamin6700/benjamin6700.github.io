@@ -3,7 +3,7 @@ layout: single
 title: "Board Game Review: Horrified: American Monsters"
 date: 2026-10-19
 categories: [personal]
-excerpt: A review on Horrified: American Monsters
+excerpt: "A spooky-season review of Horrified: American Monsters, scored on concept, clarity, design, and game-night-ability."
 ---
 ![Defcon-pic2](/assets/images/defcon-pic2.jpeg){: .align-center width="600px"}
 
