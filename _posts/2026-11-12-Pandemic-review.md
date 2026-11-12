@@ -5,7 +5,7 @@ date: 2026-10-19
 categories: [personal]
 excerpt: "A board game review of Pandemic, scored on concept, clarity, design, and game-night-ability."
 ---
-![PandemicCover](assets/images/pandemic_1.jpeg){: .align-center width="600px"}
+![PandemicCover](/assets/images/pandemic_1.jpeg){: .align-center width="600px"}
 
 The colder months are upon us. I, for one, am not a huge fan of the weather, as I have always enjoyed the beauty of the transitional seasons the most. Spring and fall are when I thrive, when it’s not too cold to have some fun outside but not so hot that I melt. Additionally, these seasons are the most beautiful here in New England. The foliage takes on new forms and colors, creating the perfect atmosphere. However, that all ends at some point. We’re hitting the time in November when everything goes from vibrant oranges and reds to bare trees and gray skies. Of course, there is a silver lining. When it starts to get too cold for my taste, I am never one to complain about holing up inside and enjoying my hobbies. I have already started to think about some of my personal hobby goals for the winter, including painting more Warhammer 40K models, finally finishing some Magic: The Gathering decks that have been waiting for me for quite some time now, and of course playing as many board games as humanly possible. With that in mind, it’s time for another board game review! This month, I had a little bit of trouble picking a game that would fit the vibe of the season. Believe it or not, there are not too many Thanksgiving-themed board games. However, after watching my family catch the same cold from one another in the span of a week, I knew exactly what game to play.
 
