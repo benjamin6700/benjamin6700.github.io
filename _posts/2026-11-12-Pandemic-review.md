@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Board Game Review: Pandemic"
-date: 2026-10-19
+date: 2026-11-12
 categories: [personal]
 excerpt: "A board game review of Pandemic, scored on concept, clarity, design, and game-night-ability."
 ---
