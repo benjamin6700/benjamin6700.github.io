@@ -8,7 +8,7 @@ plugins:
   - jekyll-paginate
 title: Benjamin Lord's Portfolio
 name: Benjamin Lord
-paginate: 5
+paginate: 3
 paginate_path: /page:num/
 
 author:
